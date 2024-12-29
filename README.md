@@ -2,7 +2,7 @@
 
 Dự án này bao gồm 3 file Python thực hiện các chức năng khác nhau, từ tính thuế, kiểm tra mật khẩu đến xử lý mảng dữ liệu.
 
-# 1. Calculate tax payable.py
+# 1. Calculate tax payable
 ## Mô tả
 - File này tính toán số thuế phải nộp dựa trên thu nhập được cung cấp.
 - Quy tắc tính thuế:
@@ -12,7 +12,7 @@ Dự án này bao gồm 3 file Python thực hiện các chức năng khác nhau
 - Sử dụng
   - Người dùng nhập thu nhập của mình.
   - Chương trình sẽ xuất ra số thuế phải nộp.
-# 2. Check valid password.py
+# 2. Check valid password
 ## Mô tả
 - File này kiểm tra xem một mật khẩu có hợp lệ hay không.
 - Điều kiện để mật khẩu hợp lệ:
@@ -24,7 +24,7 @@ Dự án này bao gồm 3 file Python thực hiện các chức năng khác nhau
 - Sử dụng
   - Người dùng cung cấp mật khẩu.
   - Chương trình trả về kết quả "Valid password" (hợp lệ) hoặc "Invalid password" (không hợp lệ).
-# 3. Format & remove duplicates in an array.py
+# 3. Format & remove duplicates in an array
 ## Mô tả
 - File này xử lý một mảng chuỗi, bao gồm:
   - Loại bỏ khoảng trắng thừa.
